@@ -1,9 +1,3 @@
-# Youtube_video_Transcript_to_to-Detailed-Notes-Converter
-
-Here's a structured README content based on your project code, suitable for GitHub:
-
----
-
 # YouTube Transcript to Detailed Notes Converter
 
 This project provides an interactive tool built with Streamlit to extract YouTube video transcripts and summarize them into concise notes using Google Gemini's generative AI model. The application supports videos with transcripts in both English and Hindi.
